@@ -76,11 +76,11 @@ function WeatherComponent() {
 		);
 	
 }
-
       <footer>
         <p>
-          This project is open source. Check it out on{' '}
-          <a href={githubLink} target="_blank" rel="noopener noreferrer">
+          This project is open source. Check it out on Lissy-Lew weatherx-react
+          <a href="https://github.com/Lissylew/weatherx-react" 
+		  target="_blank" rel="noopener noreferrer">
             GitHub
           </a>.
         </p>
