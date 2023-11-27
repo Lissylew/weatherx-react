@@ -10,6 +10,7 @@ function App() {
       <header className="App-header">
        <h1>Search City</h1>
        <Weather/>
+       <footer><a href=""></a></footer>
               </header>
     </div>
   );
