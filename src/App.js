@@ -11,7 +11,7 @@ function App() {
 				<h1>Search City</h1>
 				<Weather />
 				<footer>Open source
-					<a href="https://github.com/Lissylew/weatherx-react" target ="-blank">Arlene Lewis-Lall</a>
+					<a href="https://github.com/Lissylew/weatherx-react" target ="-blank">Lissy Lew-Lall</a>
 				</footer>
 			</header>
 		</div>
